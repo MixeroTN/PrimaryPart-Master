@@ -19,7 +19,7 @@ button.Click:Connect(function()
 				p.CFrame = o:GetModelCFrame()
 				o.PrimaryPart = p
 				if o:FindFirstChildOfClass('VehicleSeat') then
-					local ds = o:FindFirstChild('VehicleSeat')
+					local ds = o:FindFirstChildOfClass('VehicleSeat')
 					p.Orientation = ds.Orientation
 					print('VehicleSeat orientation used for PrimaryPart.')
 				end
