@@ -7,7 +7,7 @@
 This is a source code of my Roblox plugin that **adds an invisible `PrimaryPart`** to the center of selected models.
 Furthermore, it inherits the orientation of `VehicleSeat` when present.
 
-# [![Install plugin](https://img.shields.io/badge/Install%20plugin-Roblox%20marketplace-00A2FF?style=for-the-badge&logo=robloxstudio)](https://create.roblox.com/marketplace/asset/5051177870/PrimaryPart-Master)
+## [![Install plugin](https://img.shields.io/badge/Install%20plugin-Roblox%20marketplace-00A2FF?style=for-the-badge&logo=robloxstudio)](https://create.roblox.com/marketplace/asset/5051177870/PrimaryPart-Master)
 
 
 ## How It Works
